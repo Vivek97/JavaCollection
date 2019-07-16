@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author vivekjain
+ *
+ */
+module JavaCollection {
+}
